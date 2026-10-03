@@ -1,0 +1,211 @@
+{
+ "version": "84cf565807a1",
+ "app_version": "0.1.0",
+ "entries": [
+  {
+   "url": "./assets/MapScreen-CEfhqFnY.js",
+   "sha256": "ca1261cca87fd8652aa6e44242713952d93ac6f8a9dc880f0ac47d7c9908e4e4",
+   "bytes": 23878
+  },
+  {
+   "url": "./assets/MapView--nzJQFUi.js",
+   "sha256": "a623aa12850d2a73f03c07c15513fd254416c608c3d1d687dd24010239af46e6",
+   "bytes": 1038346
+  },
+  {
+   "url": "./assets/MapView-B8-mEBLf.css",
+   "sha256": "946f40662e206d3f7ecf6ef4df1881ff23819a9f93b1419a07e2609f70e7bbf4",
+   "bytes": 82962
+  },
+  {
+   "url": "./assets/index-CKVzKQtp.js",
+   "sha256": "5618fdc943f112d8fc6f6650a3f1a7745ebd061bd49a6f187492922e42cd993a",
+   "bytes": 516257
+  },
+  {
+   "url": "./assets/index-DAThbYop.css",
+   "sha256": "60ed4da797267bcf52a693c294a2f59dd19959d745c8f9261c4a287460359407",
+   "bytes": 19412
+  },
+  {
+   "url": "./assets/maplibre-gl-worker-DRFeyNJw.js",
+   "sha256": "39826cbc947ceaa0dc52c32fa773f0b374ae0867e3f8079b87f6aac75afdaaf6",
+   "bytes": 509979
+  },
+  {
+   "url": "./assets/source-sans-3-latin-400-normal-DQi5PRDE.woff2",
+   "sha256": "0f73f35e08cde0a2f10c109c6e01d71459d97e4099ecd9a50f1b6c0209e4de2b",
+   "bytes": 15696
+  },
+  {
+   "url": "./assets/source-sans-3-latin-600-normal-DeckBYAU.woff2",
+   "sha256": "14527d193b0e30bc32ef931549a246cdfd286573bb12869b7e052b8101a39d38",
+   "bytes": 15668
+  },
+  {
+   "url": "./assets/source-sans-3-latin-700-normal-CkzU-mV9.woff2",
+   "sha256": "ae35266f2ab0d5314ff9a04127931eb26c793e4f1269bb240046d4d2db4b7bb1",
+   "bytes": 15596
+  },
+  {
+   "url": "./assets/source-sans-3-latin-ext-400-normal-UNsKFIBq.woff2",
+   "sha256": "f5706bb057951632456ecbc496dfd01f0e1598718cb31c464c74a6b1fe79c837",
+   "bytes": 33024
+  },
+  {
+   "url": "./assets/source-sans-3-latin-ext-600-normal-AEyhgUpm.woff2",
+   "sha256": "5727d1da676bb59d22a985ccb0506219e25e847738214fec4eb00c17bed81ffc",
+   "bytes": 32704
+  },
+  {
+   "url": "./assets/source-serif-4-latin-600-normal-DouSKlru.woff2",
+   "sha256": "f2b7e1cf1d277b7608231868135648f8ad8e2b58d8e97ca088bee15dc357bee7",
+   "bytes": 21532
+  },
+  {
+   "url": "./assets/source-serif-4-latin-ext-600-normal-0sIUyHMO.woff2",
+   "sha256": "351f7c7a0db5732b008c62d26a8e2b1d2d110449026b8168d4240d07985a7e49",
+   "bytes": 18376
+  },
+  {
+   "url": "./content/7a05920fdad8/core.ca.json",
+   "sha256": "20095b81659a0a371984166b904deb913d6ad828810c25e354c125ed34ab3ede",
+   "bytes": 37300
+  },
+  {
+   "url": "./content/7a05920fdad8/core.es.json",
+   "sha256": "6a91277757fac998de9dddd8cf366bf44458fcc8150abf890d4609642f155d06",
+   "bytes": 40661
+  },
+  {
+   "url": "./content/7a05920fdad8/core.json",
+   "sha256": "583e4181da7182c32ed107d8874a536944025e83aac3a3d0d31764c0ce07e742",
+   "bytes": 120013
+  },
+  {
+   "url": "./content/7a05920fdad8/manifest.json",
+   "sha256": "a12369dc99e6b07aef6023c2b85821ff84023e15ff9a7eece6e06aa0d1c61b8f",
+   "bytes": 4981
+  },
+  {
+   "url": "./content/7a05920fdad8/map-areas.geojson",
+   "sha256": "13a14f8db0d23555822eb779ce4cd50826800b27bca689ff5c3e4c53c46cb3fe",
+   "bytes": 59057
+  },
+  {
+   "url": "./content/7a05920fdad8/map-barcelona.geojson",
+   "sha256": "a5cdf764301a8244622b4e6f88e3f1a7f16b055f88afbbc27c9f7fa4045607e1",
+   "bytes": 731643
+  },
+  {
+   "url": "./content/7a05920fdad8/map-catalog.json",
+   "sha256": "50182d862aee4c9d5b3b045dd375fe3aa1cf796fc24ad00ad9a942ac1edc1922",
+   "bytes": 489212
+  },
+  {
+   "url": "./content/7a05920fdad8/map-eixample.geojson",
+   "sha256": "8275b78a9b293a1e3157e2e62134be348638f624db6c69aa3e34875d7f0060cc",
+   "bytes": 66437
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-atencio-client.json",
+   "sha256": "806819ae462c4a71184936a3a98ed16bf17c8f7e749e29511e2e831a4ab97d92",
+   "bytes": 142904
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-bloc-1-portadilla.json",
+   "sha256": "d3f2e2ff6ba42401465abd0b3b9580fb2808b064cdedcc518c9fa722cb921c90",
+   "bytes": 433
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-bloc-2-portadilla.json",
+   "sha256": "5cc78fae9291b2c9fd79a9a7ece8be70e68a83f4059b0a51dae91e094d90c9ca",
+   "bytes": 597
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-conveni.json",
+   "sha256": "0a08bc9cf93c5764043ff85ab6623152dfb23cc2eb72e6ef4b5fadbccc201279",
+   "bytes": 176668
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-decaleg.json",
+   "sha256": "ff2cb19d8d4c659f651b42cfe28c7771756d7db3d31fbd649e4043aec81553e6",
+   "bytes": 41360
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-eixample.json",
+   "sha256": "37846e508befcf0df1c64c1429ce2ec1eb6f5674e45d980a3fb87db1315ec492",
+   "bytes": 63475
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-front.json",
+   "sha256": "01da79408ff31d662abcd7c23128dfdab524e4fd5aab31d94436e6640f888f8b",
+   "bytes": 8924
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-professio.json",
+   "sha256": "0eb35158ef4de806b6da96ae40d4f1a8915dda6ad94486fcc601cf1ed7f6bb76",
+   "bytes": 144613
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-reglament.json",
+   "sha256": "dcddd62f8a4400f5da1c108233e823e54944eb3ce98e1fff8a4dfc721542989c",
+   "bytes": 559340
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-seus.json",
+   "sha256": "eaa8317004903338eb49babef09a29f5b104c6efd214b5f819f0f90aee4c0700",
+   "bytes": 412963
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-tarifes.json",
+   "sha256": "b9a06d9c265b20f2fc5b8bf703af02c5f5bc8024fab25d54b50c43970b3014b3",
+   "bytes": 86193
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-vies-principals.json",
+   "sha256": "3067e424ce8534b907381443e6cc35f9ddc4c1f2f2b81291c5d20d02bf7db76b",
+   "bytes": 97158
+  },
+  {
+   "url": "./content/7a05920fdad8/mod-vies-sortida.json",
+   "sha256": "00571ffe7dc5971b1ef49f2b91c92d1835980d88bb51d684a63db093216d013c",
+   "bytes": 160438
+  },
+  {
+   "url": "./icons/icon-180.png",
+   "sha256": "cf3b3be2f4d5510178c5a39a1385f9d9fb12ee563208ec5f3c384a5ef0e7b749",
+   "bytes": 4227
+  },
+  {
+   "url": "./icons/icon-192.png",
+   "sha256": "aa1e3a8dbb753a2e1867da3907db479e41bd027fbe12ed487511831c1f69dc11",
+   "bytes": 4412
+  },
+  {
+   "url": "./icons/icon-512.png",
+   "sha256": "5dce8926b88039348fa9bae6533703cfcd271316281996bdec61f317c0666e70",
+   "bytes": 14991
+  },
+  {
+   "url": "./icons/icon.svg",
+   "sha256": "f411deaca34edb1f336a218759e5a88503e8fd71f43c44150d834d0b1c06fcc6",
+   "bytes": 627
+  },
+  {
+   "url": "./icons/maskable-512.png",
+   "sha256": "244a305cc452064cc89b02928dbf44d72f31f4233abb45c7f890d7b16f8e6a2a",
+   "bytes": 12865
+  },
+  {
+   "url": "./",
+   "sha256": "1f5878b49beb8bcc55c274fb287a75c26dbdf9531131e7d76c50377a83829c0b",
+   "bytes": 1563
+  },
+  {
+   "url": "./manifest.webmanifest",
+   "sha256": "dab0f5f5ab03ca32595c6bbd6e328b771bf639be88e7e98cda15b6991e64bf55",
+   "bytes": 749
+  }
+ ]
+}

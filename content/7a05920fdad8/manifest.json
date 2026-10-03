@@ -1,0 +1,189 @@
+{
+ "schema": "taxi.content-manifest/1",
+ "content_version": "7a05920fdad8",
+ "schema_version": 1,
+ "built_at": "2026-10-03",
+ "source": {
+  "manual_sha256": "6e442c29a8d65d70243692c6e26c425004799ca1f213baa770ccbc405d474d22",
+  "pdf_sha256": "74af076664c3017710e352bef14ce0f7b960508582e88b891d4b167aab813376",
+  "map_version": "5013bc0c.af77999d.038ccc3e.22d2b224"
+ },
+ "packages": [
+  {
+   "id": "core",
+   "file": "core.json",
+   "bytes": 120013,
+   "sha256": "583e4181da7182c32ed107d8874a536944025e83aac3a3d0d31764c0ce07e742",
+   "kind": "core",
+   "essential": true
+  },
+  {
+   "id": "core.ca",
+   "file": "core.ca.json",
+   "bytes": 37300,
+   "sha256": "20095b81659a0a371984166b904deb913d6ad828810c25e354c125ed34ab3ede",
+   "kind": "core-i18n",
+   "essential": true,
+   "lang": "ca"
+  },
+  {
+   "id": "core.es",
+   "file": "core.es.json",
+   "bytes": 40661,
+   "sha256": "6a91277757fac998de9dddd8cf366bf44458fcc8150abf890d4609642f155d06",
+   "kind": "core-i18n",
+   "essential": true,
+   "lang": "es"
+  },
+  {
+   "id": "map-areas",
+   "file": "map-areas.geojson",
+   "bytes": 59057,
+   "sha256": "13a14f8db0d23555822eb779ce4cd50826800b27bca689ff5c3e4c53c46cb3fe",
+   "kind": "mapa",
+   "essential": true
+  },
+  {
+   "id": "map-barcelona",
+   "file": "map-barcelona.geojson",
+   "bytes": 731643,
+   "sha256": "a5cdf764301a8244622b4e6f88e3f1a7f16b055f88afbbc27c9f7fa4045607e1",
+   "kind": "mapa",
+   "essential": true
+  },
+  {
+   "id": "map-catalog",
+   "file": "map-catalog.json",
+   "bytes": 489212,
+   "sha256": "50182d862aee4c9d5b3b045dd375fe3aa1cf796fc24ad00ad9a942ac1edc1922",
+   "kind": "mapa",
+   "essential": true
+  },
+  {
+   "id": "map-eixample",
+   "file": "map-eixample.geojson",
+   "bytes": 66437,
+   "sha256": "8275b78a9b293a1e3157e2e62134be348638f624db6c69aa3e34875d7f0060cc",
+   "kind": "mapa",
+   "essential": true
+  },
+  {
+   "id": "mod-atencio-client",
+   "file": "mod-atencio-client.json",
+   "bytes": 142904,
+   "sha256": "806819ae462c4a71184936a3a98ed16bf17c8f7e749e29511e2e831a4ab97d92",
+   "kind": "modulo",
+   "essential": true,
+   "section": "atencio-client"
+  },
+  {
+   "id": "mod-bloc-1-portadilla",
+   "file": "mod-bloc-1-portadilla.json",
+   "bytes": 433,
+   "sha256": "d3f2e2ff6ba42401465abd0b3b9580fb2808b064cdedcc518c9fa722cb921c90",
+   "kind": "modulo",
+   "essential": true,
+   "section": "bloc-1-portadilla"
+  },
+  {
+   "id": "mod-bloc-2-portadilla",
+   "file": "mod-bloc-2-portadilla.json",
+   "bytes": 597,
+   "sha256": "5cc78fae9291b2c9fd79a9a7ece8be70e68a83f4059b0a51dae91e094d90c9ca",
+   "kind": "modulo",
+   "essential": true,
+   "section": "bloc-2-portadilla"
+  },
+  {
+   "id": "mod-conveni",
+   "file": "mod-conveni.json",
+   "bytes": 176668,
+   "sha256": "0a08bc9cf93c5764043ff85ab6623152dfb23cc2eb72e6ef4b5fadbccc201279",
+   "kind": "modulo",
+   "essential": true,
+   "section": "conveni"
+  },
+  {
+   "id": "mod-decaleg",
+   "file": "mod-decaleg.json",
+   "bytes": 41360,
+   "sha256": "ff2cb19d8d4c659f651b42cfe28c7771756d7db3d31fbd649e4043aec81553e6",
+   "kind": "modulo",
+   "essential": true,
+   "section": "decaleg"
+  },
+  {
+   "id": "mod-eixample",
+   "file": "mod-eixample.json",
+   "bytes": 63475,
+   "sha256": "37846e508befcf0df1c64c1429ce2ec1eb6f5674e45d980a3fb87db1315ec492",
+   "kind": "modulo",
+   "essential": true,
+   "section": "eixample"
+  },
+  {
+   "id": "mod-front",
+   "file": "mod-front.json",
+   "bytes": 8924,
+   "sha256": "01da79408ff31d662abcd7c23128dfdab524e4fd5aab31d94436e6640f888f8b",
+   "kind": "modulo",
+   "essential": true,
+   "section": "front"
+  },
+  {
+   "id": "mod-professio",
+   "file": "mod-professio.json",
+   "bytes": 144613,
+   "sha256": "0eb35158ef4de806b6da96ae40d4f1a8915dda6ad94486fcc601cf1ed7f6bb76",
+   "kind": "modulo",
+   "essential": true,
+   "section": "professio"
+  },
+  {
+   "id": "mod-reglament",
+   "file": "mod-reglament.json",
+   "bytes": 559340,
+   "sha256": "dcddd62f8a4400f5da1c108233e823e54944eb3ce98e1fff8a4dfc721542989c",
+   "kind": "modulo",
+   "essential": true,
+   "section": "reglament"
+  },
+  {
+   "id": "mod-seus",
+   "file": "mod-seus.json",
+   "bytes": 412963,
+   "sha256": "eaa8317004903338eb49babef09a29f5b104c6efd214b5f819f0f90aee4c0700",
+   "kind": "modulo",
+   "essential": true,
+   "section": "seus"
+  },
+  {
+   "id": "mod-tarifes",
+   "file": "mod-tarifes.json",
+   "bytes": 86193,
+   "sha256": "b9a06d9c265b20f2fc5b8bf703af02c5f5bc8024fab25d54b50c43970b3014b3",
+   "kind": "modulo",
+   "essential": true,
+   "section": "tarifes"
+  },
+  {
+   "id": "mod-vies-principals",
+   "file": "mod-vies-principals.json",
+   "bytes": 97158,
+   "sha256": "3067e424ce8534b907381443e6cc35f9ddc4c1f2f2b81291c5d20d02bf7db76b",
+   "kind": "modulo",
+   "essential": true,
+   "section": "vies-principals"
+  },
+  {
+   "id": "mod-vies-sortida",
+   "file": "mod-vies-sortida.json",
+   "bytes": 160438,
+   "sha256": "00571ffe7dc5971b1ef49f2b91c92d1835980d88bb51d684a63db093216d013c",
+   "kind": "modulo",
+   "essential": true,
+   "section": "vies-sortida"
+  }
+ ],
+ "assets": []
+}

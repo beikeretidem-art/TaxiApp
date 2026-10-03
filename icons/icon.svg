@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0E5A5A"/>
+  <g fill="none" stroke="#F7F3EA" stroke-width="10" opacity="0.35">
+    <path d="M96 150h320M96 226h320M96 302h320M96 378h320"/>
+    <path d="M150 96v320M226 96v320M302 96v320M378 96v320"/>
+  </g>
+  <path d="M110 410L402 118" stroke="#F7F3EA" stroke-width="14" opacity="0.5"/>
+  <rect x="156" y="196" width="200" height="120" rx="24" fill="#D9A514"/>
+  <text x="256" y="276" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="64" fill="#171717">TAXI</text>
+</svg>
